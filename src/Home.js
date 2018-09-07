@@ -6,7 +6,7 @@ class Home extends Component {
     document.title = 'Home';
   }
   render(){
-    return (<HomeContent name="YOURNAMEHERE" />);
+    return (<HomeContent name="Billy" />);
   }
 }
 
